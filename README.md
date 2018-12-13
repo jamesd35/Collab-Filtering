@@ -1,1 +1,1 @@
-# Collaborative Filtering implementation in Python for predicting item ratings
+# Collaborative Filtering implementation in Python
